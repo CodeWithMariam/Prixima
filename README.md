@@ -2,7 +2,7 @@
 A Bootstrap multipurpose template
 
 # Demo
-- https://prixima.netlify.app/
+- https://priixima.netlify.app/
 
 # Clone Project
 - https://github.com/CodeWithMariam/Prixima
